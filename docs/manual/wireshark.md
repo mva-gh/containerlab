@@ -38,7 +38,7 @@ When a lab like the one above is deployed, containerlab creates the following co
 - `clab-quickstart-srl`
 - `clab-quickstart-ceos`
 
-And the namespace names would be named accordingly to the container names, namely `clab-quickstart-srl` and `cla-quickstart-ceos`.
+And the namespace names would be named accordingly to the container names, namely `clab-quickstart-srl` and `clab-quickstart-ceos`.
 
 ## Capture modes
 
